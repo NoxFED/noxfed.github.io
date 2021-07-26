@@ -1,4 +1,10 @@
 /*!
+	    Mock - 模拟请求 & 模拟数据
+	    https://github.com/nuysoft/Mock
+	    墨智 mozhi.gyy@taobao.com nuysoft@gmail.com
+	*/
+
+/*!
   * vue-router v4.0.10
   * (c) 2021 Eduardo San Martin Morote
   * @license MIT
